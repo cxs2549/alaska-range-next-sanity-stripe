@@ -24,7 +24,7 @@ const callouts = [
       description: "Kids' & Baby",
       imageSrc: "/categories/kids.jpg",
       imageAlt: "Collection of four insulated travel bottles on wooden shelf.",
-      href: "#",
+      href: "/shop/kids",
     },
   ]
 
